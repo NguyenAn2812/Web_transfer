@@ -1,0 +1,859 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//TDTU Schedule Exporter//EN
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250825T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250825T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250901T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250901T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250908T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250908T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250915T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250915T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250922T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250922T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250929T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250929T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251006T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251006T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251020T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251020T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251027T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251027T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251103T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251103T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251110T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251110T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251117T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251117T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251124T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251124T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251201T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251201T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Bảo mật thông tin | Introduction to Information Security
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251208T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251208T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250826T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250826T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250902T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250902T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250909T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250909T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250916T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250916T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250923T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250923T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250930T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250930T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251007T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251007T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251021T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251021T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251028T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251028T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251104T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251104T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251111T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251111T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251118T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251118T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251125T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251125T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251202T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251202T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Học máy | Introduction to Machine Learning
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251209T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251209T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phân tích và trực quan hóa dữ liệu | Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250828T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250828T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phân tích và trực quan hóa dữ liệu | Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250904T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250904T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phân tích và trực quan hóa dữ liệu | Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250911T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250911T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phân tích và trực quan hóa dữ liệu | Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250918T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250918T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phân tích và trực quan hóa dữ liệu | Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250925T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20250925T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phân tích và trực quan hóa dữ liệu | Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251002T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251002T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phân tích và trực quan hóa dữ liệu | Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251009T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251009T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phân tích và trực quan hóa dữ liệu | Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251023T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251023T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phân tích và trực quan hóa dữ liệu | Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251030T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251030T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phân tích và trực quan hóa dữ liệu | Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251106T093000
+DTEND;TZID=Asia/Ho_Chi_Minh:20251106T120000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phát triển ứng dụng di động đa nền tảng | Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250827T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250827T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phát triển ứng dụng di động đa nền tảng | Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250903T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250903T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phát triển ứng dụng di động đa nền tảng | Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250910T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250910T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phát triển ứng dụng di động đa nền tảng | Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250917T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250917T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phát triển ứng dụng di động đa nền tảng | Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250924T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250924T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phát triển ứng dụng di động đa nền tảng | Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251001T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251001T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phát triển ứng dụng di động đa nền tảng | Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251008T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251008T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phát triển ứng dụng di động đa nền tảng | Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251022T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251022T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phát triển ứng dụng di động đa nền tảng | Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251029T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251029T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phát triển ứng dụng di động đa nền tảng | Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251105T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251105T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phát triển ứng dụng di động đa nền tảng | Thực hành Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250910T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250910T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phát triển ứng dụng di động đa nền tảng | Thực hành Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250917T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250917T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phát triển ứng dụng di động đa nền tảng | Thực hành Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250924T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250924T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phát triển ứng dụng di động đa nền tảng | Thực hành Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251001T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251001T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phát triển ứng dụng di động đa nền tảng | Thực hành Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251008T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251008T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phát triển ứng dụng di động đa nền tảng | Thực hành Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251022T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251022T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phát triển ứng dụng di động đa nền tảng | Thực hành Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251029T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251029T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phát triển ứng dụng di động đa nền tảng | Thực hành Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251105T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251105T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phát triển ứng dụng di động đa nền tảng | Thực hành Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251112T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251112T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phát triển ứng dụng di động đa nền tảng | Thực hành Cross-Platform Mobile Application Development
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251119T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251119T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Xử lý ảnh số | Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250828T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250828T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Xử lý ảnh số | Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250904T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250904T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Xử lý ảnh số | Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250911T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250911T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Xử lý ảnh số | Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250918T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250918T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Xử lý ảnh số | Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250925T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250925T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Xử lý ảnh số | Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251002T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251002T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Xử lý ảnh số | Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251009T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251009T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Xử lý ảnh số | Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251023T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251023T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Xử lý ảnh số | Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251030T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251030T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn Xử lý ảnh số | Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251106T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251106T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phân tích và trực quan hóa dữ liệu | Thực hành Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250911T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250911T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phân tích và trực quan hóa dữ liệu | Thực hành Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250918T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250918T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phân tích và trực quan hóa dữ liệu | Thực hành Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250925T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250925T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phân tích và trực quan hóa dữ liệu | Thực hành Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251002T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251002T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phân tích và trực quan hóa dữ liệu | Thực hành Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251009T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251009T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phân tích và trực quan hóa dữ liệu | Thực hành Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251023T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251023T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phân tích và trực quan hóa dữ liệu | Thực hành Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251030T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251030T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phân tích và trực quan hóa dữ liệu | Thực hành Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251106T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251106T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phân tích và trực quan hóa dữ liệu | Thực hành Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251113T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251113T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Phân tích và trực quan hóa dữ liệu | Thực hành Data analysis and visualization
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251120T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251120T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250829T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250829T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250905T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250905T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250912T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250912T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250919T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250919T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250926T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250926T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251003T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251003T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251010T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251010T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251024T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251024T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251031T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251031T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251107T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251107T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251114T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251114T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251121T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251121T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251128T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251128T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251205T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251205T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nhập môn thị giác máy tính | Introduction to Computer Vision
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251212T124500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251212T151500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Nhập môn Xử lý ảnh số | Thực hành Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250912T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250912T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Nhập môn Xử lý ảnh số | Thực hành Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250919T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250919T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Nhập môn Xử lý ảnh số | Thực hành Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250926T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250926T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Nhập môn Xử lý ảnh số | Thực hành Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251003T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251003T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Nhập môn Xử lý ảnh số | Thực hành Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251010T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251010T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Nhập môn Xử lý ảnh số | Thực hành Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251024T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251024T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Nhập môn Xử lý ảnh số | Thực hành Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251031T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251031T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Nhập môn Xử lý ảnh số | Thực hành Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251107T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251107T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Nhập môn Xử lý ảnh số | Thực hành Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251114T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251114T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thực hành Nhập môn Xử lý ảnh số | Thực hành Introduction to Digital Image Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251121T152500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251121T175500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sinh hoạt chủ nhiệm khoa CNTT |
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250923T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250923T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sinh hoạt chủ nhiệm khoa CNTT |
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251118T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251118T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250827T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250827T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250903T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250903T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250910T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250910T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250917T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250917T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20250924T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20250924T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251001T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251001T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251008T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251008T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251022T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251022T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251029T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251029T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251105T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251105T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251112T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251112T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251119T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251119T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251126T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251126T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251203T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251203T203500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xử lý dữ liệu lớn | Massive Data Processing
+DESCRIPTION:Chưa có phòng
+LOCATION:Chưa có phòng
+DTSTART;TZID=Asia/Ho_Chi_Minh:20251210T180500
+DTEND;TZID=Asia/Ho_Chi_Minh:20251210T203500
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File list</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .file-card {
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
+            margin-bottom: 20px;
+            padding: 20px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            min-height: 120px;
+            max-width: 420px;
+            min-width: 320px;
+            background: #fff;
+        }
+
+        .file-avatar {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            background: #1976d2;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-right: 16px;
+        }
+
+        .file-info {
+            flex: 1;
+        }
+
+        .file-title {
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+
+        .file-meta {
+            color: #888;
+            font-size: 0.95rem;
+        }
+
+        .file-card-col {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+
+<body>
+    {% if has_session %}
+    <div class="position-absolute top-0 start-0 m-3">
+        <span class="badge bg-secondary">Device: {{ device_name }}</span>
+    </div>
+    {% endif %}
+    <div class="container mt-5">
+        <h2>File list</h2>
+        <div class="mb-4">
+            <input type="text" class="form-control" id="searchInput" placeholder="Search by file name or uploader..."
+                onkeyup="filterFiles()">
+        </div>
+        {% if files and files|length > 0 %}
+        <a href="/upload" class="btn btn-success me-2">Upload file</a>
+        <a href="/" class="btn btn-link">Home</a>
+        <div class="row" id="fileList">
+            {% for file in files %}
+            <div class="col-12 col-md-6 col-lg-4 file-card-col file-item">
+                <div class="file-card card w-100 h-100">
+                    <div class="file-avatar">{{ file.uploader_name[0]|upper }}</div>
+                    <div class="file-info">
+                        <div class="file-title">{{ file['title'] }}</div>
+                        <div class="file-meta">{{ file.uploader_name }} &bull; {{ file.upload_time[:10] }}
+                            {% if not file.is_public %}<span class="badge bg-warning text-dark ms-2">Private</span>{%
+                            endif %}
+                        </div>
+                    </div>
+                    <div>
+                        <a href="/download/{{ loop.index0 }}" class="btn btn-outline-primary btn-sm">Download</a>
+                        {% if file['file_type'] == 'image' or file['file_type'] == 'pdf' or file['file_type'] == 'text'
+                        %}
+                        <button class="btn btn-outline-info btn-sm ms-2" data-id="{{ loop.index0 }}"
+                            onclick="showPreview(this.getAttribute('data-id'))">Preview</button>
+                        {% endif %}
+                        {% if file['uploader_id'] == session_id %}
+                        <a href="/delete/{{ loop.index0 }}" class="btn btn-outline-danger btn-sm ms-2"
+                            onclick="return confirm('Bạn có chắc muốn xóa file này?');">Delete</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="alert alert-info">No files yet.</div>
+        {% endif %}
+
+    </div>
+    {% if not has_session %}
+    <!-- Popup accept cookie -->
+    <div class="modal show" tabindex="-1" style="display:block; background:rgba(0,0,0,0.5);">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Accept Cookie</h5>
+                </div>
+                <div class="modal-body">
+                    <p>This website uses cookies to identify devices. You need to accept cookies to use the service.</p>
+                </div>
+                <div class="modal-footer">
+                    <button id="acceptCookieBtn" class="btn btn-primary">Accept</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        document.getElementById('acceptCookieBtn').onclick = function () {
+            fetch('/accept-cookie', { method: 'POST' })
+                .then(res => res.json())
+                .then(data => { if (data.success) location.reload(); });
+        };
+    </script>
+    {% endif %}
+
+    <!-- Modal preview và script luôn render -->
+    <div class="modal fade" id="previewModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">File Preview</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body" id="previewContent" style="max-height:70vh;overflow:auto;text-align:center">
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function showPreview(fileId) {
+            fetch('/preview/' + fileId)
+                .then(res => res.text())
+                .then(html => {
+                    document.getElementById('previewContent').innerHTML = html;
+                    var modal = new bootstrap.Modal(document.getElementById('previewModal'));
+                    modal.show();
+                });
+        }
+        function filterFiles() {
+            var input = document.getElementById('searchInput').value.toLowerCase();
+            var items = document.getElementsByClassName('file-item');
+            for (var i = 0; i < items.length; i++) {
+                var card = items[i].querySelector('.file-card');
+                var title = card.querySelector('.file-title').innerText.toLowerCase();
+                var uploader = card.querySelector('.file-meta').innerText.toLowerCase();
+                if (title.includes(input) || uploader.includes(input)) {
+                    items[i].style.display = '';
+                } else {
+                    items[i].style.display = 'none';
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>
