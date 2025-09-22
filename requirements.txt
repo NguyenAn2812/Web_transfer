@@ -1,1 +1,4 @@
-Flask==3.0.3 
+Flask==3.0.3
+Werkzeug==3.0.3
+openpyxl==3.1.5    
+python-pptx==0.6.23  
